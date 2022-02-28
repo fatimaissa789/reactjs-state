@@ -1,0 +1,13 @@
+
+.buttonStyle{
+    background-color: #634B66;
+    width: 245px;
+    height: 145px;
+    border-radius: 4px;
+    
+    font-size: large;
+    border: 3px solid #9590A8;
+  padding: 10px;
+  margin: 10px;
+  
+}
